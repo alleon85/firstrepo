@@ -1,0 +1,45 @@
+* {
+	font-family: 'Lato', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+hr {
+	border: 1px solid #c79852;
+	margin: 3% auto;
+	width: 7%;
+}
+
+nav {
+	margin: 0 1%;
+    padding: 1% 5%;
+}
+
+nav div {
+	display: inline-block;
+}
+
+nav div a {
+	color: #464646;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+nav > div:last-child {
+	float: right;
+}
+
+nav input {
+	border: none;
+}
+
+section {
+	padding-bottom: 50px;
+}
+
+header {
+	margin: 0 auto;
+	text-align: center;
+	width: 80%;
+}
